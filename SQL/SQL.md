@@ -2,7 +2,6 @@
 
 ### 1. Databases
   * MySQL
-  * MariaDB
 
 ### 2. Statements
   * `SELECT`
